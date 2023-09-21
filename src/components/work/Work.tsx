@@ -4,7 +4,7 @@ import StainWork from '../../assets/stainFive.png'
 const Work = () => {
 
     const data = [
-        '../../assets/ongle1.jpg',
+        '/deerAlyxn/assets/ongle1.jpg',
         '../../assets/ongle2.jpg',
         '../../assets/ongle3.jpg',
         '../../assets/ongle4.jpg',
