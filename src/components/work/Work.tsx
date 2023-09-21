@@ -17,7 +17,7 @@ const Work = () => {
     return(
         <div className="workContainer">
             <div className="workColorBloc">
-                <h2>Mon travail</h2>
+                <h2>Mon travail :</h2>
                 <div className="photoTab">
                     {data.map((image, index) => {
                         return <img src={image} key={index} className='workImg'></img>
