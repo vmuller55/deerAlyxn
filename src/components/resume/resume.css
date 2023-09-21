@@ -34,6 +34,9 @@
     width: 80%;
     margin: auto;
     color: white;
+    font-size: 16px;
+    z-index: 999;
+    text-shadow: 0px 3px 5px black;
 }
 
 .imageSpawnContainer{
@@ -56,8 +59,6 @@
     z-index: 999;
     
 }
-
-
 
 .resumeStain{
     width: 50%;
