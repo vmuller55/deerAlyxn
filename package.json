@@ -1,6 +1,6 @@
 {
   "name": "deeralyxformation",
-  "private": true,
+  "private": false,
   "homepage": "http://vmuller55.github.io/deerAlyxn/",
   "version": "0.0.0",
   "type": "module",
