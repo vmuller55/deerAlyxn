@@ -4,14 +4,14 @@ import StainWork from '../../assets/stainFive.png'
 const Work = () => {
 
     const data = [
-        '/src/assets/ongle1.jpg',
-        '/src/assets/ongle2.jpg',
-        '/src/assets/ongle3.jpg',
-        '/src/assets/ongle4.jpg',
-        '/src/assets/ongle5.jpg',
-        '/src/assets/ongle6.jpg',
-        '/src/assets/ongle7.jpg',
-        '/src/assets/ongle8.jpg',
+        '../../assets/ongle1.jpg',
+        '../../assets/ongle2.jpg',
+        '../../assets/ongle3.jpg',
+        '../../assets/ongle4.jpg',
+        '../../assets/ongle5.jpg',
+        '../../assets/ongle6.jpg',
+        '../../assets/ongle7.jpg',
+        '../../assets/ongle8.jpg',
     ]
 
     return(
